@@ -1,5 +1,4 @@
 import React from "react";
-// import Home from "./Home";
 
 function NavBar() {
   // update the JSX being returned!
